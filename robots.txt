@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: http://magpieos.net/sitemap.xml
+Sitemap: https://magpie-linux.github.io/website/sitemap.html
