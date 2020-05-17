@@ -4,15 +4,11 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://magpieos.net/</loc>
-  <lastmod>2017-12-29T15:12:43+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://magpieos.net/</loc>
+  <lastmod>2020-01-21T14:23:12+00:00</lastmod>
 </url>
-<url>
-  <loc>http://magpieos.net/index.html</loc>
-  <lastmod>2017-12-29T15:12:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+
 </urlset>
